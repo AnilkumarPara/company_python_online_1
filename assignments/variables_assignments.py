@@ -16,4 +16,5 @@ Check the variable values and memory address.
 Assignment-3:
 WAP to assign multiple values to multiple variables
 in single line of code
+After assigning, print and check the values
 """
